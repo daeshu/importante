@@ -6,7 +6,7 @@ email: 						"info@escobar.eu.org"
 description: 				"Memorias de un grano de arena en un día soleado en las costas de algún remoto lugar en el planeta tierra."
 baseurl: 					""
 url: 						"https://daeshu.github.io/blog/"
-logourl: 					"https://sites.google.com/site/danielescobarweb/bloglogo.jpg"		
+logourl: 					"https://sites.google.com/site/danielescobarweb/bloglogo.jpg"
 fa-logo: 					"fa-bookmark-o"
 paginate: 					5
 
