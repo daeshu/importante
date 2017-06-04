@@ -8,7 +8,7 @@ baseurl: 					""
 url: 						"https://daeshu.github.io/blog/"
 logourl: 					"https://sites.google.com/site/danielescobarweb/bloglogo.jpg"
 fa-logo: 					"fa-bookmark-o"
-paginate: 					5
+paginate: 					6
 
 
 # Author Settings
