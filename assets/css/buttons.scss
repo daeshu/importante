@@ -12,23 +12,23 @@
 	}
 
 	&.blue{
-		border:2px solid #03C0BD;
-		background:#03C0BD;
+		border:2px solid #0066d9;
+		background:#0066d9;
 		color:#fff;
 		&:hover{
-			border:2px solid #03C0BD;
+			border:2px solid #c3c2c9;
 			background:#fff;
 			color:#686868;
 		}
 	}
 
 	&.lightgray{
-		border:2px solid #03C0BD;
+		border:2px solid #c3c2c9;
 		background:#fff;
 		color:#686868;
 		&:hover{
-			border:2px solid #08aeac;
-			background:#08aeac;
+			border:2px solid #0066d9;
+			background:#0066d9;
 			color:#fff;
 		}
 	}
