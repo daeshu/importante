@@ -110,11 +110,11 @@
       var text = '';
 
       if(total_reading_time_remaining > 1) {
-        text = total_reading_time_remaining + ' minutes left';
+        text = total_reading_time_remaining + ' minutos atrás';
       } else if(progress >= 1) {
-        text = 'Thanks for reading';
+        text = 'Gracias por leer';
       } else if (total_reading_time_remaining <= 1) {
-        text = '1 minute left';
+        text = '1 minuto atrás';
       }
 
       bubble
